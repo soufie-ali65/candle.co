@@ -1,0 +1,25 @@
+---
+title: "candles"
+description: Here is where you can find cute, asthetic candles that are ready made or you can customise. 
+
+
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+                                          20% OFF ORDERS OVER £50
+Recomened by users...
+
+![](images/biegs.png){width=90%}
+
+### ON OFFER 
+Neutral Pack beige 24pc random selection
+
+£70, 20% OFF
+
+
+

@@ -1,0 +1,19 @@
+---
+title: "candles&co"
+image: "images/logo.jpg"
+links:
+  - label: '<i class="fab fa-twitter"></i> Twitter'
+    url: 'https://twitter.com/R_Girls_School target="_blank"'
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: 'https://github.com/R-Girls target="_blank"'
+  - label: '<i class="fas fa-envelope"></i> Contact Us'
+    url: "mailto:maryam.nawaz@greenoak.bham.sch.uk"
+output:
+  postcards::solana
+site: distill::distill_website
+---
+ 
+## A bit about us...`r emo::ji("crush")`
+Hi!Here at 'candles&co' we love to give you the best quality candles chosen by you.From scent to colour to writing.Everything is customed to you. `r emo::ji("crush")`
+
+![yin & yan](images/yin and yan.jpg){width=30%} ![pastel floral flower](images/cute flower.webp){width=45%}

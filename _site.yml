@@ -1,0 +1,14 @@
+name: "candles&co."
+title: "candles&co"
+description: |
+  name of your website
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "about"
+      href: about.html
+    - text: "discover"
+      href: discover.html
+output: distill::distill_article
