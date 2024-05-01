@@ -1,5 +1,5 @@
 ---
-title: "candles&co"
+title: "SweetCandles.co"
 image: "images/logo.jpg"
 links:
   - label: '<i class="fab fa-twitter"></i> Twitter'
@@ -9,11 +9,13 @@ links:
   - label: '<i class="fas fa-envelope"></i> Contact Us'
     url: "mailto:maryam.nawaz@greenoak.bham.sch.uk"
 output:
-  postcards::solana
+  postcards::jolla
 site: distill::distill_website
 ---
  
-## A bit about us...`r emo::ji("crush")`
-Hi!Here at 'candles&co' we love to give you the best quality candles chosen by you.From scent to colour to writing.Everything is customed to you. `r emo::ji("crush")`
+ A bit about us...`r emo::ji("crush")`
+Welcome to SweetCandle.co! 
 
-![yin & yan](images/yin and yan.jpg){width=30%} ![pastel floral flower](images/cute flower.webp){width=45%}
+Discover handcrafted candles that transform ordinary moments into extraordinary memories. From soothing scents to sustainable magic, our candles illuminate your world.
+
+Light up your life at SweetCandle.co! 

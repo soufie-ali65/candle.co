@@ -1,5 +1,5 @@
-name: "candles&co."
-title: "candles&co"
+name: "SweetCandles.co."
+title: "SweetCandles.co"
 description: |
   name of your website
 output_dir: "docs"
@@ -12,3 +12,4 @@ navbar:
     - text: "discover"
       href: discover.html
 output: distill::distill_article
+theme: my-theme.css
