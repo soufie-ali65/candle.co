@@ -1,8 +1,19 @@
 ---
-title: "About this site"
-description: |
-  Some additional details about the website
+title: "Why Our Business Is Worth It"
+description:
 ---
+
+## Welcome to SweetCandle.co
+
+**SweetCandle.co** is your destination for handcrafted candles that blend delightful fragrances with eco-friendly materials. Our natural soy wax candles, complete with lead-free wicks and essential oils, are designed to elevate your space and mood.
+
+### Why SweetCandle.co?
+- <i class="fa-brands fa-pagelines"></i>**Eco-Friendly**: Sustainability is at our core. Our candles are made from natural soy wax, ensuring a cleaner burn for both you and the environment.
+- <i class="fa-solid fa-arrow-down"></i>**Monthly Member Sales**: As a valued member of our community, you'll enjoy exclusive discounts every month. Treat yourself to your favorite scents without breaking the bank!
+- <i class="fa-solid fa-hand-holding-heart"></i>**Quality Craftsmanship**: Each candle is meticulously hand-poured with love and care. We believe in creating products that stand out for their quality and attention to detail.
+- <i class="fa-solid fa-spray-can-sparkles"></i>**Diverse Aromas**: From invigorating citrus to calming lavender, our diverse range of scents caters to every preference. Whether you're unwinding after a long day or setting the mood for a special occasion, we've got you covered.
+
+Join our community and experience the SweetCandle.co difference. Light up your life with our aromatic creations!<i class="fa-regular fa-heart">
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
