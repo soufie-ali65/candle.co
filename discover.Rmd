@@ -14,14 +14,14 @@ knitr::opts_chunk$set(echo = FALSE)
                                           20% OFF ORDERS OVER £50
 Recomened by users...
 
-![](images/biegs.png){width=90%}
+![](images/biegs.png){width=70%}
 
 ### ON OFFER 
 Neutral Pack beige 24pc random selection
 
 £70, 20% OFF
 
-![](images/pink.png){width=90%}
+![](images/pink.png){width=70%}
 
 
 ### ON OFFER
@@ -29,7 +29,13 @@ Pink Candle Love 16pc custom collection
 
 £50, 10% OFF
 
-![k](downloads/aroma.png){width=90%}
+![k](images/bob.png){width=70%}
+
+Aroma Therapy Set 13PC
+
+£35 
+
+
 
 
 
