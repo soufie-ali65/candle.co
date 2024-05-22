@@ -1,6 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 /* base variables */
 
 /* Edit the CSS properties in this file to create a custom
@@ -29,10 +28,10 @@ html {
   --aside-color:     rgba(0, 0, 0, 0.6);
   --fig-cap-color:   rgba(0, 0, 0, 0.6);
   /*-- Specify custom fonts ~~~ must be imported above   --*/
-  --heading-font:    lobster;
-  --mono-font:       monospace;
-  --body-font:       lobster;
-  --navbar-font:     lobster;  /* websites + blogs only */
+  --heading-font:    Lobster ;
+  --mono-font:       monospace ;
+  --body-font:       Lobster ;
+  --navbar-font:     Lobster ;  /* websites + blogs only */
 }
 
 /*-- ARTICLE METADATA --*/
@@ -72,7 +71,7 @@ d-appendix {
   --text-color:       rgba(255, 255, 255, 0.8);
   --text-size:        15px;
   --hover-color:      white;
-  --bkgd-color:       #FBAED2;
+  --bkgd-color:       #FFB4C6;
 }
 
 /*-- Additional custom styles --*/
