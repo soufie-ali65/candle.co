@@ -5,7 +5,7 @@
       "title": "Why Our Business Is Worth It",
       "author": [],
       "contents": "\nWelcome to SweetCandleCo.\nSweetCandleCo. is your destination for handcrafted candles that blend delightful fragrances with eco-friendly materials. Our natural soy wax candles, complete with lead-free wicks and essential oils, are designed to elevate your space and mood.\nWhy SweetCandleco?\nEco-Friendly: Sustainability is at our core. Our candles are made from natural soy wax, ensuring a cleaner burn for both you and the environment.\nMonthly Member Sales: As a valued member of our community, you’ll enjoy exclusive discounts every month. Treat yourself to your favorite scents without breaking the bank!\nQuality Craftsmanship: Each candle is meticulously hand-poured with love and care. We believe in creating products that stand out for their quality and attention to detail.\nDiverse Aromas: From invigorating citrus to calming lavender, our diverse range of scents caters to every preference. Whether you’re unwinding after a long day or setting the mood for a special occasion, we’ve got you covered.\nJoin our community and experience the SweetCandle.co difference. Light up your life with our aromatic creations!\n\n\n\n",
-      "last_modified": "2024-05-22T11:12:48+00:00"
+      "last_modified": "2024-05-22T11:14:12+00:00"
     },
     {
       "path": "discover.html",
@@ -13,15 +13,8 @@
       "description": "Here is where you can find cute, asthetic candles that are ready made or you can customise.",
       "author": [],
       "date": "`r Sys.Date()`",
-      "contents": "\n                                      20% OFF ORDERS OVER £50\nRecomened by users…\n\nON OFFER\nNeutral Pack beige 24pc random selection\n£70, 20% OFF\n\nON OFFER\nPink Candle Love 16pc custom collection\n£50, 10% OFF\nkAroma Therapy Set 13PC\n£35\n\n\n\n",
-      "last_modified": "2024-05-22T10:37:55+00:00"
-    },
-    {
-      "path": "index.html",
-      "title": "SweetCandlesCo.",
-      "author": [],
-      "contents": "\n\n          \n          \n          SweetCandlesco.\n          \n          \n          Home\n          about\n          discover\n          ☰\n          \n          \n      \n        \n          \n            SweetCandlesCo.\n          \n          \n            \n              A bit about us…🥰 Welcome to SweetCandle.co!\n              Discover handcrafted candles that transform ordinary\n              moments into extraordinary memories. From soothing scents\n              to sustainable magic, our candles illuminate your\n              world.\n              Light up your life at SweetCandle.co!\n            \n            \n              A bit about us…🥰 Welcome to SweetCandle.co!\n              Discover handcrafted candles that transform ordinary\n              moments into extraordinary memories. From soothing scents\n              to sustainable magic, our candles illuminate your\n              world.\n              Light up your life at SweetCandle.co!\n            \n          \n\n          \n            \n              \n                  \n                    \n                       Twitter\n                    \n                  \n                \n                                \n                  \n                    \n                       GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                       Contact Us\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                     Twitter\n                  \n                \n                                \n                  \n                     GitHub\n                  \n                \n                                \n                  \n                     Contact Us\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2024-05-22T10:59:45+00:00"
+      "contents": "\n                                      20% OFF ORDERS OVER £50\nRecomened by users…\n\nON OFFER\nNeutral Pack beige 24pc random selection\n£70, 20% OFF\n\nON OFFER\nPink Candle Love 16pc custom collection\n£50, 10% OFF\nkAroma Therapy Set 13pc\n£35\n\n\n\n",
+      "last_modified": "2024-05-22T11:14:23+00:00"
     }
   ],
   "collections": []
